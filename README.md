@@ -3,4 +3,5 @@
   - Machine Learning
   - Cloud Computing
 
-[ini link websitenya](https://project-weekly3-zaki-khairi.netlify.com/)
+###ini link website nya:
+[EduTech](https://project-weekly3-zaki-khairi.netlify.com/)
