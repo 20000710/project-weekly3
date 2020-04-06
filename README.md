@@ -2,3 +2,5 @@
   - Artificial Intelligence
   - Machine Learning
   - Cloud Computing
+
+[ini link websitenya](https://project-weekly3-zaki-khairi.netlify.com/)
